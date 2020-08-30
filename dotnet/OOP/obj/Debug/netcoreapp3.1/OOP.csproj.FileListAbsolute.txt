@@ -10,3 +10,16 @@
 /Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.dll
 /Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
 /Users/christiankirschberg/repos/school/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Miklas\Desktop\2nd-semester\dotnet\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
