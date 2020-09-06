@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miklas\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj": {}
+    "C:\\Users\\123\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miklas\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj": {
+    "C:\\Users\\123\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miklas\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj",
+        "projectUniqueName": "C:\\Users\\123\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "C:\\Users\\Miklas\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj",
-        "packagesPath": "C:\\Users\\Miklas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miklas\\Desktop\\2nd-semester\\dotnet\\OOP\\obj\\",
+        "projectPath": "C:\\Users\\123\\Desktop\\2nd-semester\\dotnet\\OOP\\OOP.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\Desktop\\2nd-semester\\dotnet\\OOP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Miklas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
