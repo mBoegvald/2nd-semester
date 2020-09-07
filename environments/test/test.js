@@ -3,7 +3,7 @@ var expect = require("chai").expect;
 describe("Calculate Product function", function () {
   context("with arguments", function () {
     it("should return product of arguments", function () {
-      expect(calculateProduct(1, 2, 3)).to.equal(6);
+      expect(calculateProduct(5, 5, 10)).to.equal(250);
     });
   });
 });
